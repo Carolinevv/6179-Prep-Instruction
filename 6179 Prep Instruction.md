@@ -3,7 +3,7 @@
 
 >Preface
 
-首先我想说，[官网](https://www.firstinspires.org/)贼重要啊！你们如果愿意花时间去explore的话上面宝贝贼多，拜托你们利用起来
+首先我想说，[官网](https://www.firstinspires.org/)贼重要啊！你们如果愿意花时间去explore的话上面宝贝贼多，拜托你们利用起来\n
 虽然我不想承认，但是不听老人言...你们会后悔的！
 （下面就切换到我的正经模式:D）
 
