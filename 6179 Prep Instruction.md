@@ -4,7 +4,7 @@
 >Preface
 
 首先我想说，[官网](https://www.firstinspires.org/)贼重要啊！你们如果愿意花时间去explore的话上面宝贝贼多，拜托你们利用起来</br>
-虽然我不想承认，但是不听老人言...你们会后悔的！
+虽然我不想承认，但是不听老人言...你们会后悔的！</br>
 （下面就切换到我的正经模式:D）
 
 >9月
@@ -40,7 +40,7 @@
 >12月
 
 ### 新人培训
-培训接近尾声…👆
+培训接近尾声…👆</br>
 可以上[官网](https://www.firstinspires.org/resource-library)扒扒有用的资料
 
 >1月-2月 Build Season
@@ -87,5 +87,5 @@
 
 >Contributor(s)
 
-Caroline(Email: carolinev1028@gmail.com)
+Caroline(Email: carolinev1028@gmail.com)</br>
 p.s 没事就不要骚扰我的email了蟹蟹，wechat随意，欢迎骚扰
