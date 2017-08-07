@@ -49,7 +49,7 @@
 - 没有意外的话，一般1月初kickoff，然后你们会收到**Kit**，[Manual](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)也会release，请所有人**详细阅读manual**，开始分析题目搭建
 - 每周查updated manual
 #### Building…
-- 搭建时的instruction，出门左转Engineering Instruction by 小名（我写这份instruction的时候还没看到它的诞生:D），或者出门右转[Programming Introduction](https://github.com/SweetDumpling/6179FJPI/blob/02c94d4bb18b21f6192c9e064f8f3c8f224d444d/6179%20FRC%20Java%20Programming%20Introduction.md) by 鲁康元
+- 搭建时的instruction，出门左转Engineering Instruction by 小名（我写这份instruction的时候还没看到它的诞生:D），或者出门右转[Programming Introduction](https://github.com/SweetDumpling/6179FJPI/tree/02c94d4bb18b21f6192c9e064f8f3c8f224d444d) by 鲁康元
 - Week 3-4要开始设计队服uniform，大队旗flag，小队旗banner，队徽badge（以上👆是必选项），还有一些可选项，比如手机壳，书签，etc.
 - FIRST在最后的1-2周总会有一些大礼包，比如关于Frame Parameter的规则可能会有大改动，你们就…习惯就好。If your design is compatible with the updated rules, then keep on testing. If it’s not, don’t complain. Come up a new one asap. You can save the complaints when you’re working on the redesigned robot.
 - 1-2个同学记得申请[Awards](https://www.firstinspires.org/robotics/frc/awards)
